@@ -6,3 +6,24 @@
         background-color: aquamarine;
     } */
 }
+
+#welcome-section{
+    padding-top: 0px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+}
+
+
+#navbar{
+    overflow: hidden;
+    background-color: beige;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.body{
+    margin-top: 100px;
+}
+
